@@ -1,0 +1,7 @@
+{
+  "name": "EcoExchanceRecycle",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
